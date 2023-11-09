@@ -12,6 +12,7 @@ In summary, the fusion of GCNs, RNNs, and CNNs presents a promising path for adv
 For datasets refer the below websites
 
 https://github.com/dxli94/WLASL
+
 https://facundoq.github.io/datasets/lsa64/
 
-The mentioned models GCN with keypoints and frames are both in the same file GCN withmanually selected keypoints. All the model names are self explanatory.
+The mentioned models GCN with keypoints and frames are both in the same file GCN with manually selected keypoints. All the model names are self explanatory.
